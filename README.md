@@ -9,8 +9,8 @@ Creating the "UPVOTE ALL THE THINGS" bookmark icon
 * Open Chrome
 * Make sure that you have your Bookmarks Bar showing
 * If you don't have a Bookmarks Bar displayed, do the following:
-** Right-click an empty spot in your browser
-** Click "Show Bookmarks Bar"
+  * Right-click an empty spot in your browser
+  * Click "Show Bookmarks Bar"
 * Right cick an empty spot in the Bookmarks Bar and click "Add Page..."
 * In the "Name:" textbox, type "UPVOTE ALL THE THINGS!" (or something shorter, if you into that whole brevity thing)
 * In the "URL:" textbox, type the following:
