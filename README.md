@@ -12,7 +12,7 @@ Creating the bookmark icon
   * Right-click an empty spot in your browser toolbar
   * Click "Show Bookmarks Bar"
 * Right cick an empty spot in the Bookmarks Bar and click "Add Page..."
-* In the "Name:" textbox, type "UPVOTE ALL THE THINGS!" (or something shorter, if you into that whole brevity thing)
+* In the "Name:" textbox, type "UPVOTE ALL THE THINGS!" (or something shorter, if you're into that whole brevity thing)
 * In the "URL:" textbox, copy and paste the following:
 
 ```
@@ -41,7 +41,7 @@ Creating the bookmark icon
   * Right-click an empty spot in your browser toolbar
   * Click "Bookmarks Toolbar"
 * Right cick an empty spot in the Bookmarks Toolbar and click "New Bookmark..."
-* In the "Name:" textbox, type "UPVOTE ALL THE THINGS!" (or something shorter, if you into that whole brevity thing)
+* In the "Name:" textbox, type "UPVOTE ALL THE THINGS!" (or something shorter, if you're into that whole brevity thing)
 * In the "Location:" textbox, copy and paste the following:
 
 ```
